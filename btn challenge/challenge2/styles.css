@@ -1,0 +1,24 @@
+*{
+    box-sizing: 0;
+    padding:0;
+    margin:0;
+    background-color: black;
+}
+
+.div__btn{
+top:50%;
+left:50%;
+position:absolute;
+}
+
+.btn{
+    background-color: black;
+    border:5px solid rgb(255,255,84);
+    border-radius: 10px;
+    color:#FFF;
+    padding:10px 20px;
+    
+}
+.btn:hover{
+    box-shadow: 1px 1px 15px 5px rgb(255,255,84);
+}
