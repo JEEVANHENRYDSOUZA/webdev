@@ -1,0 +1,40 @@
+*{
+    box-sizing: 0;
+    padding:0;
+    margin:0;
+}
+
+.container{
+top:50%;
+left:50%;
+position:absolute;
+background-color: aqua;
+border-radius:5px;
+
+}
+
+.btn{
+    
+background-color:rgb(77,150,236);
+color:rgb(255,255,255);
+border-radius:5px;
+padding:15px 35px;
+text-decoration:none;
+position: relative;
+font-family: sans-serif;
+}
+
+
+
+.badge{
+    position: absolute;
+    top: -10px;
+    right: -11px;
+    height:16px;
+    width: 15px;
+    background-color: rgb(51,51,51);
+    border-radius: 100%;
+    padding: 7px;
+    text-align: center;
+    display: inline-block;
+}
