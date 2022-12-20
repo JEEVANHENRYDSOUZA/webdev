@@ -1,0 +1,30 @@
+*{
+    box-sizing: 0;
+    padding:0;
+    margin:0;
+    
+}
+
+
+
+.navigation{
+top:50%;
+left:50%;
+position:absolute;
+background-color: black;
+padding:15px 20px;
+border-radius:8px;
+
+}
+
+.nav-item{
+    text-decoration: none;
+    color:rgb(166,163,152);
+    font-family: sans-serif;
+    font-weight: 700;
+    margin-left:20px;
+    margin-right: 20px; 
+}
+a:hover{
+    color:rgb(114,245,188)
+ }
